@@ -1,0 +1,2 @@
+/Engine/Transient.World_0:PersistentLevel.Enemy_C_0.Magic_Component
+/Game/Persona6/Blueprints/Magics/Magic_Component.Magic_Component_C

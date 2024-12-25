@@ -1,0 +1,2 @@
+/Game/Persona6/Blueprints/Magics/Magic_Component.Default__Magic_Component_C
+/Game/Persona6/Blueprints/Magics/Magic_Component.Magic_Component_C

@@ -1,0 +1,2 @@
+/Game/Persona6/Blueprints/Characters/BaseCharacter.BaseCharacter_C:Magic_Component_GEN_VARIABLE
+/Game/Persona6/Blueprints/Magics/Magic_Component.Magic_Component_C
