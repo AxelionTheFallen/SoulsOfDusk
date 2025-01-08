@@ -1,0 +1,2 @@
+/Engine/Transient.World_12:PersistentLevel.Enemy_C_0
+/Game/Persona6/Blueprints/Characters/NPC/Agressive/Enemy.Enemy_C

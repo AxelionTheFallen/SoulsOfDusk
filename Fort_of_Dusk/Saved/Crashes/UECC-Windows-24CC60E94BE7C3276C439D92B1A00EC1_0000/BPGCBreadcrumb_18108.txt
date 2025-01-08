@@ -1,0 +1,2 @@
+/Game/Persona6/Levels/Level_1_Map.Level_1_Map:PersistentLevel.BP_Enemy_1_C_3
+/Game/Persona6/Blueprints/Characters/NPC/Agressive/Enemy.Enemy_C

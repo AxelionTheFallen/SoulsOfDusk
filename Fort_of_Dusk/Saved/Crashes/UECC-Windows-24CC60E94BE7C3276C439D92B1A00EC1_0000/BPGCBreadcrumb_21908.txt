@@ -1,0 +1,2 @@
+/Game/Persona6/Blueprints/Characters/NPC/Agressive/BP_Enemy_Skeleton.Default__BP_Enemy_Skeleton_C
+/Game/Persona6/Blueprints/Characters/NPC/Agressive/Enemy.Enemy_C
